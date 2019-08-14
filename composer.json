@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/sm_glasses_free",
+    "type": "magento-module",
+    "license": "GNU-General-Public-License-(GPL)",
+    "homepage": "",
+    "description": "sm_glasses_free",
+    "authors": [
+    {
+        "name": "magentech.com",
+        "email": "contact@ytcvn.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
